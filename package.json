@@ -1,0 +1,36 @@
+{
+  "name": "smith-waterman",
+  "version": "0.0.0",
+  "description": "smith-waterman algorithm in JavaScript",
+  "homepage": "http://github.com/shinout/",
+  "author": "Shin Suzuki<shinout310@gmail.com>",
+  "keywords": [
+    "bioinformatics",
+    "DNA",
+    "sequence"
+  ],
+  "main": "lib/smith-waterman.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "coffee-script": ">= 1.7.1",
+    "grunt": "^0.4.4",
+    "grunt-contrib-coffee": "^0.10.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/shinout/smith-waterman"
+  },
+  "bugs": {
+    "url": "http://github.com/shinout/smith-waterman/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/shinout/smith-waterman/blob/master/MIT-LICENSE"
+    }
+  ]
+}
